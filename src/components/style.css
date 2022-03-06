@@ -1,0 +1,60 @@
+.PostBlock{
+    position: relative;
+    /* border:2px solid #ececec; */
+    box-shadow: 2px 2px 20px 2px#ececec ;
+    border-radius: 2px;
+    display: inline-block;
+}
+.ToggleButton{
+    width: 220px;
+}
+.profileImg{
+    width:65px;
+    height:65px;
+}
+
+.writeText{
+    text-align: left;
+    padding: 20px;
+}
+
+.optionsSearch{
+    display: flex;
+    justify-content:space-evenly;
+    padding-bottom: 5px;
+}
+.optionsSearchInsideFlexBox{
+    border:2px solid #ececec;
+    border-radius: 20px;
+    width: 250px;
+    /* padding: 2px; */
+    text-align: left;
+    display: flex;
+}
+.icons{
+    color: blueviolet;
+}
+.icons-text{
+    font-size: 19px;
+}
+.writePostMessage{
+    width:550px;
+    height: 120px;
+    border: none;
+}
+#outlined-basic{
+    height: 5px;
+    width:220px;
+}
+.searchButton{
+    background-color: white;
+    cursor: pointer;
+    height: 40px;
+    border: none;
+}
+.PopUpInputfield{
+    border: 2px solid white;
+    display: inline-block;
+    width: 250px;
+}
+
